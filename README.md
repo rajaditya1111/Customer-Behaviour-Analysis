@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Customer Behavior Analysis
 
 1. Project Overview :-
 This project analyzes customer shopping behavior using transactional data from 3,900
